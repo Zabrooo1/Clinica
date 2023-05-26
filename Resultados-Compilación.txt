@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: Clinica, configuración: Debug Any CPU ------
+1>  Clinica -> C:\Users\zabro\source\repos\Clinica\Clinica\bin\Clinica.dll
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
